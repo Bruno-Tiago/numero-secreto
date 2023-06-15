@@ -38,7 +38,7 @@ O reconhecimento de voz pode variar em precisão e desempenho dependendo do nave
 
 ## Execução do projeto:
 
-https://mochila-de-viagem-olive-eight.vercel.app/
+https://numero-secreto-pi-seven.vercel.app/
 
 ## Feito por:
 
